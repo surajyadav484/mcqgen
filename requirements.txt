@@ -1,0 +1,7 @@
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+
+-e .  # Uncomment this line if you have a local package to install
